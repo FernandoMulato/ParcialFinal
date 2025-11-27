@@ -1,4 +1,4 @@
-# parcial final **Laboratorio de Programación Orientada a Objetos**
+# Parcial Final **Laboratorio de Programación Orientada a Objetos**
 
 Proyecto: **ParcialFinal_losNegativos**
 
